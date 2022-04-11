@@ -7,7 +7,7 @@ metadata:
     ingressclass.kubernetes.io/is-default-class: true
 spec:
   rules:
-  - host: 210.106.105.165.nip.io
+  - host: 210.106.105.155.nip.io
     http:
       paths:
       - path: /
